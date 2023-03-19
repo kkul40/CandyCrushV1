@@ -200,7 +200,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.54, y: 2.33, z: -10}
+  m_LocalPosition: {x: 3.76, y: 2.36, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -241,12 +241,11 @@ MonoBehaviour:
   spaces: 1
   tilePrefab: {fileID: 9103089699034177589, guid: 61143392520accf4186314ecbeb35151, type: 3}
   dots:
-  - {fileID: 17952767484843391, guid: f9da945103503b44b9b143a9f9984dd0, type: 3}
-  - {fileID: 2938937762207386861, guid: 8457f464c95e37045a562ab20c884360, type: 3}
-  - {fileID: 590281262744821929, guid: 0626487b6e0201c44b66e27bd79a4cea, type: 3}
-  - {fileID: 7518350213902085109, guid: cb325764f8bca8540bc11da3a7c851be, type: 3}
-  - {fileID: 8995274594581096477, guid: e64cd61825434f34482029d6a1ac4ee7, type: 3}
+  - {fileID: 2938937762207386861, guid: 710712f8f48bae44f950eb15ad13b386, type: 3}
+  - {fileID: 7518350213902085109, guid: a46577629b385c9439c3ea219d796107, type: 3}
   - {fileID: 6407490474974799794, guid: 786dbb39a4c946d4d9239d9dca4e7484, type: 3}
+  - {fileID: 590281262744821929, guid: 0626487b6e0201c44b66e27bd79a4cea, type: 3}
+  - {fileID: 8995274594581096477, guid: e64cd61825434f34482029d6a1ac4ee7, type: 3}
 --- !u!4 &2145219855
 Transform:
   m_ObjectHideFlags: 0
